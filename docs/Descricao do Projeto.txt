@@ -1,0 +1,16 @@
+Cadastro
+- Empresa (Matriz/Filial)
+- Cliente
+- Tecnico
+
+- Equipamento
+  - Fabricante
+  - Modelo
+
+- Termo de Garantia
+
+
+#Arch linux instalando o mysql mariadb
+sudo systemctl start mysqld
+
+sudo mysql_install_db --user=mysql --basedir=/usr/ --ldata=/var/lib/mysql/
