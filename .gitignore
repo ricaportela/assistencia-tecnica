@@ -85,6 +85,7 @@ ENV/
 
 # ideia
 .ideia/
+.ideia
 
 
 # Spyder project settings
